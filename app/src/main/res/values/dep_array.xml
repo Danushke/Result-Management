@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="department">
+        <item>Select Your Department</item>
+        <item>ENT</item>
+        <item>BST</item>
+        <item>ICT</item>
+        <item>EET</item>
+        <item>MTT</item>
+        <item>BPT</item>
+        <item>FDT</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+        <TextView
+            android:id="@+id/textViewUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="USER NAME"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="10dp">
+
+        <TextView
+            android:id="@+id/sem1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="Semester 1"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+        <TextView
+            android:id="@+id/sem2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="Semester 2"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Semester 3"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:layout_marginTop="@dimen/activity_vertical_margin"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Semester 4"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:layout_marginTop="@dimen/activity_vertical_margin"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/activity_list_view.xml" value="0.536" />
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/activity_list_view2.xml" value="0.4" />
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/activity_main.xml" value="0.1527777777777778" />
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/activity_result_over_view.xml" value="0.536" />
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/activity_result_over_view2.xml" value="0.1" />
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/activity_user_login.xml" value="0.264" />
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/ascmcgtfgb.xml" value="0.6" />
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/layout_row.xml" value="0.4" />
+        <entry key="..\:/My Android project/RMS - UI/app/src/main/res/layout/temp_reg.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
